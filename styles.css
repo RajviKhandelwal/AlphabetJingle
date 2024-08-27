@@ -1,0 +1,9 @@
+.selected{
+   
+    border-radius: 2px black;
+}
+
+.animate{
+    animation-duration: 5s;
+    border-color: aquamarine;
+}
